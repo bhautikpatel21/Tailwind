@@ -6,5 +6,5 @@
 @layer utilities{
     .grid-height{
         grid-template-rows: 50% 50%;
-    }
+    } 
 }
